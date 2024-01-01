@@ -398,3 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 # Angular 
 src/ClientApp/.angular/*
+
+
+#MacOS
+*.DS_Store
